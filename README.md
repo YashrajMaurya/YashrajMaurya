@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YashrajMaurya
 - 👀 I’m interested in Mobile App Development and Web development 
-- 🌱 I’m currently learning Flutter and Web development 
+- 🌱 I’m currently learning Flutter and MERN Stack development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail
+- 📫 How to reach me: mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
