@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashraj Maurya</h1>
 
-<h3 align="center">
+<h3 align="center" style="color: #de99c2;">
 Frontend Developer | MERN Stack Developer | Backend Developer 
 </h3>
 
