@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yashraj Maurya</h1>
 
 <h3 align="center">
-Frontend Developer | MERN Stack Learner | Cybersecurity Enthusiast
+Frontend Developer | MERN Stack Developer | Backend Developer 
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Learning MERN Stack Development
-- 🔐 Interested in Cybersecurity, VAPT & Bug Bounty
-- 🌱 Currently learning PostgreSQL, NestJS and Advanced React
-- 👨‍💻 Building real-world projects and improving DSA skills
-- 📫 Reach me at: your-email@example.com
-
+I am working as Junior Software Developer at Aim2Excel: 
+- ⚡ Working on full-stack web applications and real-world business solutions
+- 🌐 Specialized in React, Next.js, Node.js, PostgreSQL, NextJS and modern web technologies
+- 🏗️ Passionate about building scalable, high-performance applications
+- 📈 Committed to continuous growth and delivering impactful solutions
+- 📫 Reach me at: yashrajmaurya1234@gmail.com
 ---
 
 ## 🛠️ Tech Stack
@@ -40,23 +39,29 @@ Frontend Developer | MERN Stack Learner | Cybersecurity Enthusiast
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,git,github,linux,tailwind)](https://skillicons.dev)
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashraj-maurya-aab005307/" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+  </a>&nbsp;&nbsp;
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+  <a href="mailto:yourmail@gmail.com" style="margin-right: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />
+  </a>&nbsp;&nbsp;
 
----
+  <a href="https://github.com/YashrajMaurya" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  </a>&nbsp;&nbsp;
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YashrajMaurya&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashrajMaurya&layout=compact)
+  <a href="https://portfolio-nine-black-99.vercel.app/" target="_blank" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=webflow" />
+</a>&nbsp;&nbsp;
+</p>
 
 ---
 
@@ -65,4 +70,3 @@ Frontend Developer | MERN Stack Learner | Cybersecurity Enthusiast
 - MERN Stack Development
 - React + Tailwind CSS
 - PostgreSQL
-- Cybersecurity & Bug Hunting
