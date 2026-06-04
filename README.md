@@ -38,6 +38,12 @@ Frontend Developer | MERN Stack Learner | Cybersecurity Enthusiast
 
 ---
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,tailwind)](https://skillicons.dev)
+
+---
+
 ## 🌐 Connect With Me
 
 [LinkedIn](YOUR_LINKEDIN_URL)
