@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Yashraj Maurya</h1>
 
-<h3 align="left" style="color: #de99c2;">
-Frontend Developer | MERN Stack Developer | Backend Developer 
-</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=de99c2&width=650&lines=Frontend+Developer+|+MERN+Stack+Developer+|+Backend+Developer" alt="Frontend Developer | MERN Stack Developer | Backend Developer" />
+</p>
 
 ---
 
