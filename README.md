@@ -70,3 +70,10 @@ I am working as Junior Software Developer at Aim2Excel:
 - MERN Stack Development
 - React + Tailwind CSS
 - PostgreSQL
+
+---
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/YashrajMaurya/YashrajMaurya/blob/output/github-contribution-grid-snake.svg" />
+</p>
